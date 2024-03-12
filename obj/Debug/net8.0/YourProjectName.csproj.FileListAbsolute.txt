@@ -1,0 +1,14 @@
+/Users/chanelmorgan/YourProjectName/bin/Debug/net8.0/YourProjectName
+/Users/chanelmorgan/YourProjectName/bin/Debug/net8.0/YourProjectName.deps.json
+/Users/chanelmorgan/YourProjectName/bin/Debug/net8.0/YourProjectName.runtimeconfig.json
+/Users/chanelmorgan/YourProjectName/bin/Debug/net8.0/YourProjectName.dll
+/Users/chanelmorgan/YourProjectName/bin/Debug/net8.0/YourProjectName.pdb
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.AssemblyInfoInputs.cache
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.AssemblyInfo.cs
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.csproj.CoreCompileInputs.cache
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.dll
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/refint/YourProjectName.dll
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.pdb
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/YourProjectName.genruntimeconfig.cache
+/Users/chanelmorgan/YourProjectName/obj/Debug/net8.0/ref/YourProjectName.dll
